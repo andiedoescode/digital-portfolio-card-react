@@ -1,6 +1,6 @@
 # Digital Portfolio Card
 
-**Link to project:** https://eclectic-phoenix-05fcd2.netlify.app/
+**Link to project:** https://sample-digital-portfolio-card.netlify.app/
 
 <!-- ![alt tag](http://placecorgi.com/1200/650) -->
 
