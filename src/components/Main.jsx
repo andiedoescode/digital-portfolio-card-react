@@ -21,10 +21,10 @@ export function Main() {
                 </div>
                 <div>
                     <h3 className="abt-title">About</h3>
-                    <p className="abt-content">I'm a full stack developer with an interest in making things simpler and usable for everyone. I try to keep up with best practices and always looking for new things to learn.</p>
+                    <p className="abt-content">I'm a full stack developer with an interest in making things simple and accessible. I'm like a curious cat, always exploring and seeking new things to learn!</p>
                     
                     <h3 className="abt-title">Interests</h3>
-                    <p className="abt-content">Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
+                    <p className="abt-content">Food and travel loving linguistics enthusiast. Podcasts, needlework, and other granny hobbies are right up my alley.</p>
                 </div>
             </section>
         </>
